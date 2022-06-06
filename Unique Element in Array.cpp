@@ -1,7 +1,7 @@
 Here an Array is given as (2m + 1) in which m is twice and 1 in ones in 
 the given array
 
-We have to find that 1 numeber which is unique.
+We have to find that 1 number which is unique.
 
 Eg: 
 nums[] = {3,1,4,3,4,1,6};
